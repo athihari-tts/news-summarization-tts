@@ -1,0 +1,3 @@
+[submodule "news-tts-app"]
+	path = news-tts-app
+	url = https://github.com/athihari-tts/news-summarization-tts
